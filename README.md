@@ -24,12 +24,12 @@ This project is based on SOS and Cesium.
 
 - Sensor Observation Service ([SOS Github](https://github.com/52north/SOS)) [[installation](https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#Installation)]
 - [Cesium](https://cesiumjs.org/) ([Github](https://github.com/AnalyticalGraphicsInc/cesium)) [[installation](https://cesiumjs.org/downloads/)]
-  Hint:
-  You can download CesiumJS and extract.
-  Install [Node.js](https://nodejs.org/en/), then navigate to the root directory and run the following command to install the dependencies.
-  `$ npm install`
-  Start the web server by executing the command:
-  `$ node server.js`
+  Hint:<br>
+  You can download CesiumJS and extract.<br>
+  Install [Node.js](https://nodejs.org/en/), then navigate to the root directory and run the following command to install the dependencies.<br>
+  `$ npm install`<br>
+  Start the web server by executing the command:<br>
+  `$ node server.js`<br>
   Finally, launch a browser and navigate to `http://localhost:8080/{path to the html}`
 
 ### Configuration
