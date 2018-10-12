@@ -23,7 +23,7 @@ This project will apply GeoJSON and indoor route network with JSON format in a 3
 This project is based on SOS and Cesium.
 
 - Sensor Observation Service ([SOS Github](https://github.com/52north/SOS)) [[installation](https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#Installation)]
-- [Cesium](https://cesiumjs.org/) ([Github](https://github.com/AnalyticalGraphicsInc/cesium)) [[installation](https://cesiumjs.org/downloads/)]
+- [Cesium](https://cesiumjs.org/) ([Github](https://github.com/AnalyticalGraphicsInc/cesium)) [[installation](https://cesiumjs.org/downloads/)]<br>
   Hint:<br>
   You can download CesiumJS and extract.<br>
   Install [Node.js](https://nodejs.org/en/), then navigate to the root directory and run the following command to install the dependencies.<br>
