@@ -37,8 +37,8 @@ This project is based on SOS and Cesium.
 In this implementation, the SOS service is  `http://localhost:8080/52n-sos/service`
 You have to replace the URL to your own service URL.
 
-***The 52N_InnovationChallenge file should be copy and put inside Cesium floder, same with the server.js.***
-*After finish the installation of Cesium, there is a server.js file.*
+***The 52N_InnovationChallenge file should be copy and put inside Cesium floder, same with the server.js.*** <br>
+*(After finish the installation of Cesium, there is a server.js file.)*
 
 
 
