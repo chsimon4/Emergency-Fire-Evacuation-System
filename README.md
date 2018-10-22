@@ -73,7 +73,7 @@ In the cmd interface, you can get the url to start.
 
 In this implementation, the url will be  `http:localhost:8080/52N_InnovationChallenge/index.html`
 
-In this example, 8080 is the port number. You can replace it to yours.
+In this example, 8080 is the number of the port. You can replace it to yours.
 
 ## Indoor route network
 
