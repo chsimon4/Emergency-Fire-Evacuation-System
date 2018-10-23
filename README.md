@@ -34,7 +34,7 @@ This project is based on SOS and Cesium.
   `$ node server.js`<br>
   Finally, launch a browser and navigate to `http://localhost:8080/{path to the html}` <br>
   
-  ***The 52N_InnovationChallenge file should be copy and put inside Cesium floder, same with the server.js.*** <br>
+***The 52N_InnovationChallenge file should be copy and put inside Cesium floder, same with the server.js.*** <br>
 *(After finish the installation of Cesium, there is a server.js file.)*
 
 
